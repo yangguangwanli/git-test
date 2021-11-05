@@ -26,5 +26,6 @@ public class GitTest {
 
         System.out.println("HelloGit3333");
         System.out.println("HelloGit4444");
+        System.out.println("hot-fix test");
     }
 }
