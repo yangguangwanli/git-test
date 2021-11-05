@@ -14,7 +14,7 @@ package main.java.com.Renjie;
  * 文件被提交之后，颜色恢复正常的黑色
  *
  * 蓝色：被追踪过但后面被修改了
- *
+ * 因为之前已经被追踪过了，因此可以直接提交到本地库
  *
  * @Version: 1.0
  */
@@ -23,5 +23,7 @@ public class GitTest {
         System.out.println("HelloGit");
 
         System.out.println("HelloGit2222");
+
+        System.out.println("HelloGit3333");
     }
 }
